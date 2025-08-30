@@ -42,21 +42,6 @@ The Streamlit app provides an interactive interface to predict churn for new cus
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aliaagamall/data_science_projects.git
-   cd Bank_Customer_Churn
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## Usage
 
 1. Run the Streamlit app:
