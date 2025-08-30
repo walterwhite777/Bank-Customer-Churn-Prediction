@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction Project
 
-**Author:** Aliaa Gamal  
+**Author:** premanandh sigamala
 
 This project predicts whether a bank customer will churn (leave) or stay using a machine learning model, based on the [Bank Customer Churn Records](data/Customer-Churn-Records.csv) dataset from [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data). The goal is to identify key churn drivers and enable targeted retention strategies.
 
