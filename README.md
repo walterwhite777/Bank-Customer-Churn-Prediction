@@ -98,11 +98,13 @@ Bank-Customer-Churn-Prediction/
 
 ## Reports
 
-Detailed reports are available in the `reports` folder:
-1. [Project Overview](reports/Report%201%20Project%20Overview%20And%20Goal.md)
-2. [Exploratory Data Analysis](reports/Report%202%20Exploratory%20Data%20Analysis.md)
-3. [Data Cleaning and Preprocessing](reports/Report%203%20Data%20Cleaning%20and%20Preprocessing.md)
-4. [Modeling](reports/Report%204%20Modeling.md)
+Detailed reports are available in the `reports` folder and notebooks:
+
+1. [Project Overview](reports/Report%201%20Project%20Overview%20And%20Goal.md)  
+2. [Exploratory Data Analysis](reports/Report%202%20Exploratory%20Data%20Analysis.md)  
+3. [Data Cleaning and Preprocessing](reports/Report%203%20Data%20Cleaning%20and%20Preprocessing.md)  
+4. [Modeling](reports/Report%204%20Modeling.md)  
+5. [SQL Queries and EDA Plots](notebooks/sql_queries.ipynb)  
 
 ---
 
