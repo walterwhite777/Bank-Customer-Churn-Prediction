@@ -1,6 +1,6 @@
 # Modeling
 
-**Author:** Aliaa Gamal
+**Author:** Premanandh sigamala
 
 ## Content Structure
 The following dictionary outlines the sections of this report:

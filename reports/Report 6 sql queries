@@ -1,0 +1,55 @@
+# Bank Customer Churn Prediction – Enhancements
+
+This repository contains enhancements to the original **Bank Customer Churn Prediction** project.  
+I added SQL integration, exploratory data analysis, and advanced queries to make the project more useful for **business-driven insights**.
+
+---
+
+## Enhancements Done
+
+### 1. Data Integration
+- Created a MySQL database `bank_churn_db` and a `customers` table.  
+- Loaded `Customer-Churn-Records.csv` directly into MySQL for reproducibility and easy query execution.  
+- Established SQLAlchemy + Pandas connection for seamless querying inside Jupyter notebooks.
+
+### 2. Exploratory Data Analysis (EDA)
+- Performed **statistical summaries** and **distribution plots** (age, credit score, balance, churn distribution).  
+- Generated churn breakdowns by **gender, geography, and account activity**.  
+- Plots added for:
+  - Age distribution
+  - Credit score distribution
+  - Balance distribution
+  - Churn rate comparisons across features
+
+### 3. SQL Queries
+#### Basic Queries
+- Customer counts, churn percentages
+- Average balance by geography
+- Distribution of products & credit card ownership
+- Churn rate by gender & age groups
+
+#### Advanced Queries
+- **Window functions**: rank customers by balance within geography  
+- **CTEs**: segment churn risk by age & balance  
+- **CASE WHEN**: classify customers into churn risk categories  
+- **Joins & aggregations** for product-wise churn  
+- **Churn probability buckets** for managerial insights  
+
+### 4. Notebook
+- Added a new notebook: `notebooks/sql_queries.ipynb`  
+- Contains:
+  - Database connection setup
+  - EDA using SQL + Pandas
+  - Basic & advanced SQL queries
+  - Visualizations of churn behavior
+
+---
+
+## How This Helps
+- Provides **business insights** beyond pure ML modeling.  
+- Makes project portfolio-ready by combining **SQL, analytics, and visualization**.  
+- Ensures reproducibility through database-backed workflows.  
+
+---
+
+ 

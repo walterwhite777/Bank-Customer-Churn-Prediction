@@ -59,26 +59,30 @@ The Streamlit app provides an interactive interface to predict churn for new cus
 ## Project Structure
 
 ```
-Bank_Customer_Churn/
+Bank-Customer-Churn-Prediction/
 ├── dashboard/
-│   ├── BANK Customer Churn Dashboard.pbix
-│   └── BANK Customer Churn Dashboard.pdf
+│   ├── Bank Customer Churn Dashboard.pbix
+│   └── Bank Customer Churn Dashboard.pdf
 ├── data/
 │   └── Customer-Churn-Records.csv
 ├── images/
 │   ├── CreditScore_Distribution.png
 │   ├── Age_Distribution.png
-│   └── (other images from reports)
+│   ├── Balance_Distribution.png
+│   └── Churn_Rate_By_Features.png
 ├── models/
 │   ├── model.pkl
 │   └── scaler.pkl
 ├── notebooks/
-│   └── BANK_Customer_Churn.ipynb
+│   ├── Bank_Customer_Churn.ipynb         # Original ML modeling notebook
+│   └── sql_queries.ipynb                 # New SQL + EDA + Business Insights
 ├── reports/
 │   ├── Report 1 Project Overview And Goal.md
 │   ├── Report 2 Exploratory Data Analysis.md
 │   ├── Report 3 Data Cleaning and Preprocessing.md
-│   └── Report 4 Modeling.md
+│   ├── Report 4 Modeling.md
+│   └── Report 5 furthur enchancements.md  
+        Report 6 sql queries    # Detailed explanation of SQL + EDA work
 ├── src/
 │   ├── app.py
 │   ├── config.py
