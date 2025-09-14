@@ -117,4 +117,7 @@ Detailed reports are available in the `reports` folder and notebooks:
 5. Open a pull request.
 
 ---
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
