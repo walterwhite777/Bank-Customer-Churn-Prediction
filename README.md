@@ -117,3 +117,4 @@ Detailed reports are available in the `reports` folder and notebooks:
 5. Open a pull request.
 
 ---
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
